@@ -5,7 +5,7 @@ const form = (props) => {
     
     return (
         //
-        <div className="container">
+        <div className="container" >
             <div>{props.error?error():null}</div>
            <form onSubmit={props.loadweather} >
            <div className="row">

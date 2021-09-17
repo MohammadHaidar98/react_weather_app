@@ -1,5 +1,14 @@
 .container {
-  margin-top: 1.2rem;
+    margin-top: 1.2rem;
+    
+
+}
+.back{
+  /* background: url("/src/assets/rr.jpg"); */
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-weight: bold;
+  color: white;
 }
 
 
